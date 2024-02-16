@@ -5,8 +5,10 @@
 
 img {
     max-width: 10%;
+    float: right;
 }
 
 footer {
     background-color: rgb(163, 212, 255);
+    float: clear;
 }
